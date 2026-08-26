@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Mete!<br><br>Computer Engineering student at IZTECH focusing on AI workflows, modular architecture, and tooling.<br><br>---<br><br>### What I'm Doing<br>- Currently building **a PairVPN-focused hotspot anti-leakage tool**<br>- Exploring **low-level systems, algorithms, and modular design**<br>- Areas of interest: **Game Mechanics, Automation, and System Optimization**<br><br>---<br><br>### Connect With Me<br>- Email: [aydinmete1108@gmail.com](mailto:aydinmete1108@gmail.com)<br>- Discord: `meteadam`
+# Hi, I'm Mete!<br><br>Computer Engineering student at IZTECH focusing on AI workflows, modular architecture, and tooling.<br><br>---<br><br>### What I'm Doing<br>- Currently building **my AgentOS from scratch**<br>- Exploring **low-level systems, algorithms, and modular design**<br>- Areas of interest: **Game Mechanics, Automation, and System Optimization**<br><br>---<br><br>### Connect With Me<br>- Email: [aydinmete1108@gmail.com](mailto:aydinmete1108@gmail.com)<br>- Discord: `meteadam`
 
 
 ## 🌐 Socials:
